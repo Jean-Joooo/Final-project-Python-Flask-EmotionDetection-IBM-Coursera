@@ -1,1 +1,1 @@
-# Repository for final project Flask IBM Fulls Stack
+# My repo project Python Flask IBM Fulls Stack
