@@ -1,4 +1,4 @@
-Python Flask Coursera | IBM Full Stack courses Project:
+Python Flask Coursera | IBM Full Stack courses Project :
 
 In a captivating exploration within the realm of Flask and Python, I embarked on an Emotion Detection project within, a remarkable endeavor aimed at deciphering human emotions through some text, this project leverages Flask to create a seamless web application within IBM environment, making emotion analysis accessible and engaging.
 
