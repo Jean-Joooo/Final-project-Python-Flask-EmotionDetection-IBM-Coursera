@@ -8,4 +8,4 @@ The primary objective of this project was to delve into the fascinating world of
 Development Approach:
 The project followed a Python-centric development approach, utilizing Flask to build a robust and responsive web application. The modular structure of Flask allowed for the seamless integration of various components, resulting in an efficient and scalable solution.
 
-The Emotion Detection project, developed using Flask and Python, has been a fascinating journey into the realm of artificial intelligence and human-computer interaction. 
+The Emotion Detection project, developed using Flask and Python, has been a fascinating adventure in the field of artificial intelligence and human-computer interaction.
